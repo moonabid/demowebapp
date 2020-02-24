@@ -12,8 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to Abid Devops Icon on behalf of Infinito Solutions</h2>
-      <h3 class="text-center">hello rahul</h3>
-      <h4 class="text-center">hello sapna</h4>
+      
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
